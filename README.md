@@ -1,4 +1,4 @@
-## Olá, Mundo! Prazer meu nome é Cauã Santos.
+## Olá, Prazer meu nome é Cauã Santos.
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 - 🚀 Desenvolvedor Front-End em formação
